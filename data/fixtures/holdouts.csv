@@ -1,0 +1,4 @@
+viewer_id,experiment_id,group_name,assigned_at
+usr_1001,exp_dialect_boost_2026,treatment,2026-02-15T00:00:00Z
+usr_1002,exp_dialect_boost_2026,control,2026-02-15T00:00:00Z
+usr_1003,exp_dialect_boost_2026,treatment,2026-02-16T00:00:00Z

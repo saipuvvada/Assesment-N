@@ -1,0 +1,7 @@
+{"event_id": "evt_001", "viewer_id": "usr_1001", "source": "web_player", "event_type": "watch_start", "content_id": "show_201", "timestamp": "2026-03-01T14:00:00Z", "playback_position_sec": 0}
+{"event_id": "evt_002", "viewer_id": "usr_1001", "source": "web_player", "event_type": "watch_pause", "content_id": "show_201", "timestamp": "2026-03-01T14:25:00Z", "playback_position_sec": 1500}
+{"event_id": "evt_001", "viewer_id": "usr_1001", "source": "web_player", "event_type": "watch_start", "content_id": "show_201", "timestamp": "2026-03-01T14:00:00Z", "playback_position_sec": 0}
+{"event_id": "evt_003", "viewer_id": "usr_1001", "source": "mobile_app", "event_type": "subtitle_change", "language_variant": "ar-EG", "timestamp": "2026-03-01T14:10:00Z"}
+{"event_id": "evt_004", "viewer_id": "usr_9999_unknown", "source": "smart_tv", "event_type": "app_open", "timestamp": "2026-03-02T08:00:00Z"}
+{"event_id": "", "viewer_id": "usr_1002", "source": "web_player", "event_type": "", "timestamp": "invalid-date"}
+{"event_id": "evt_005", "viewer_id": "usr_1002", "source": "smart_tv", "event_type": "watch_complete", "content_id": "show_202", "timestamp": "2026-03-01T20:00:00Z", "rating": 5}

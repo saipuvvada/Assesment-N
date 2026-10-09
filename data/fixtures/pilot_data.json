@@ -1,0 +1,22 @@
+[
+  {
+    "experiment_id": "exp_dialect_boost_2026",
+    "viewer_id": "usr_1001",
+    "metrics": {
+      "completion_rate": 0.92,
+      "dialect_matching_score": 0.95,
+      "retention_days": 14
+    },
+    "recorded_at": "2026-03-01T00:00:00Z"
+  },
+  {
+    "experiment_id": "exp_dialect_boost_2026",
+    "viewer_id": "usr_1002",
+    "metrics": {
+      "completion_rate": 0.55,
+      "dialect_matching_score": 0.60,
+      "retention_days": 5
+    },
+    "recorded_at": "2026-03-01T00:00:00Z"
+  }
+]

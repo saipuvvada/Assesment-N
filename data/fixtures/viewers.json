@@ -1,0 +1,38 @@
+[
+  {
+    "viewer_id": "usr_1001",
+    "external_id": "ext_alpha_1001",
+    "profile_version": 1,
+    "dialect_preference": "Egyptian Arabic",
+    "language_variant": "ar-EG",
+    "engagement_score": 0.85,
+    "created_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "viewer_id": "usr_1002",
+    "external_id": "ext_beta_1002",
+    "profile_version": 2,
+    "dialect_preference": "Levantine Arabic",
+    "language_variant": "ar-SY",
+    "engagement_score": 0.62,
+    "created_at": "2026-02-01T14:30:00Z"
+  },
+  {
+    "viewer_id": "usr_1003",
+    "external_id": "ext_gamma_1003",
+    "profile_version": 1,
+    "dialect_preference": "Gulf Arabic",
+    "language_variant": "ar-AE",
+    "engagement_score": 0.40,
+    "created_at": "2026-02-10T09:15:00Z"
+  },
+  {
+    "viewer_id": "usr_1002",
+    "external_id": "ext_beta_1002",
+    "profile_version": 1,
+    "dialect_preference": "Levantine Arabic",
+    "language_variant": "ar-LB",
+    "engagement_score": 0.50,
+    "created_at": "2026-01-20T12:00:00Z"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "timing_mode": "REAL_WALL_CLOCK_MONOTONIC",
+  "summary": {
+    "total_processed_triggers": 24,
+    "successful_decisions": 1,
+    "failed_decisions": 23,
+    "abstained_decisions": 0,
+    "rejected_actions": 0,
+    "decisions_exceeding_60s": 0,
+    "decisions_exceeding_5min": 0
+  },
+  "latency_stats_ms": {
+    "median_ms": 31.0,
+    "p95_ms": 75.6,
+    "max_ms": 250.0
+  },
+  "call_budgets": {
+    "max_model_calls_per_decision": 8,
+    "max_tool_calls_per_decision": 20,
+    "model_call_distribution": {
+      "1_call": 24,
+      "multiple_calls": 0
+    },
+    "tool_call_distribution": {
+      "1_to_3_tools": 24
+    }
+  },
+  "error_tracking": {
+    "provider_errors_count": 0,
+    "error_types": []
+  },
+  "no_action_reason_breakdown": {}
+}

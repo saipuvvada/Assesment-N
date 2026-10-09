@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ott-agent"
+version = "0.1.0"
+description = "OTT Dialect Platform - One User One Agent"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.110.0,<1.0.0",
+    "uvicorn>=0.28.0,<1.0.0",
+    "sqlalchemy>=2.0.28,<3.0.0",
+    "pydantic>=2.6.4,<3.0.0",
+    "pydantic-settings>=2.2.0,<3.0.0",
+    "httpx>=0.27.0,<1.0.0",
+    "typer>=0.9.0,<1.0.0",
+    "python-dateutil>=2.9.0"
+]
+
+[project.scripts]
+ott-cli = "ott_agent.cli.main:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]
